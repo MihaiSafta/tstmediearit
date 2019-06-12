@@ -18,7 +18,7 @@ public class App
     public static void main( String[] args )
     {
         App app = new App();
-        app.displayAverage(19,20.5, 99);
+        app.displayAverage(1,2.2, 9.9);
 
 
     }
